@@ -1,0 +1,13 @@
+aval az karbar ye adad migirim.baad taqsime sahihe oon adad ro bar 2 toye ye 
+moteqayere jadid be esme "a" zkhire mikonim.
+
+dar edame agar adad bish az 2 bood, baqi mande oon adad ro bar adaade 2 ta "a"
+barresi mikonim. agar baqi mande sefr shod, yani adad aval nist va "no" ro
+print mikonim va az halqe kharej mishim.dar qeire in soorat "yes" ro print 
+mikonim.
+
+agar adad brabare 2 bood,"yes" ro print mikonim.choon 2 ye adade avale va 
+algoritme bala baraye oon javab nemide.
+
+agar adad 1 bood, 1 na avale, na morakab. pass "we have no answer to your input
+" ro print mikonim. 
